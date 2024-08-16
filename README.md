@@ -1,7 +1,7 @@
 ### Contributions 💻
 - https://github.com/vitejs/vite/pull/17333 🔵
-- https://github.com/lint-staged/lint-staged/pull/1303 🟡
 - https://github.com/facebook/docusaurus/pull/7206 🟡
+- https://github.com/lint-staged/lint-staged/pull/1303 🟡
 - https://github.com/bitwarden/desktop/pulls?q=is:pr+is:closed+author:elias-pap 🔵
 - https://github.com/graphql-markdown/graphql-markdown/pulls?q=is:pr+is:closed+author:elias-pap 🟡
 
