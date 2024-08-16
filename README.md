@@ -5,7 +5,7 @@
 - 🔵 https://github.com/bitwarden/desktop/pulls?q=is:pr+is:closed+author:elias-pap
 - 🟡 https://github.com/graphql-markdown/graphql-markdown/pulls?q=is:pr+is:closed+author:elias-pap
 
-### Current Projects 🥞
+### Projects I actively maintain 🥞
 - 🟡 https://github.com/elias-pap/youtube-share-clip
 
 ### Past Projects 🌛
