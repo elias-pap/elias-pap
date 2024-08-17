@@ -15,7 +15,7 @@
 &emsp;🟤 https://github.com/elias-pap/concurrent-data-structures
 
 <br/>
-🔵 TypeScript 🟡 JavaScript 🟢 Python 🟠 React Native 🟤 Java
+🔵 TypeScript&emsp;🟡 JavaScript&emsp;🟢 Python&emsp;🟠 React Native&emsp;🟤 Java
 
 <!--
 **elias-pap/elias-pap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
