@@ -10,7 +10,7 @@
 
 ### Past Projects 🌛
 &emsp;🟢 https://gitlab.com/rastapank/lounge-squirrel  
-&emsp;🟠 https://github.com/elias-pap/kitapi
+&emsp;🟠 https://github.com/elias-pap/kitapi  
 &emsp;🟢 https://github.com/UoC-Radio/flow-dashboard  
 &emsp;🟤 https://github.com/elias-pap/concurrent-data-structures
 
