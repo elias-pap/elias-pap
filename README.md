@@ -1,18 +1,18 @@
-### Contributions 💻
-&emsp;🔵 https://github.com/vitejs/vite/pull/17333  
-&emsp;🟡 https://github.com/facebook/docusaurus/pull/7206  
-&emsp;🟡 https://github.com/lint-staged/lint-staged/pull/1303  
-&emsp;🔵 https://github.com/bitwarden/desktop/pulls?q=is:pr+is:closed+author:elias-pap  
-&emsp;🟡 https://github.com/graphql-markdown/graphql-markdown/pulls?q=is:pr+is:closed+author:elias-pap
+### Top Contributions 💥
+&emsp;🔵 [vitejs/vite](https://github.com/vitejs/vite/pull/17333)  
+&emsp;🟡 [facebook/docusaurus](https://github.com/facebook/docusaurus/pull/7206)  
+&emsp;🟡 [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged/pull/1303)  
+&emsp;🔵 [bitwarden/desktop](https://github.com/bitwarden/desktop/pulls?q=is:pr+is:closed+author:elias-pap)  
+&emsp;🟡 [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown/pulls?q=is:pr+is:closed+author:elias-pap)
 
 ### Projects I actively maintain 🥞
-&emsp;🟡 https://github.com/elias-pap/youtube-share-clip
+&emsp;🟡 [elias-pap/youtube-share-clip](https://github.com/elias-pap/youtube-share-clip)
 
 ### Past Projects 🌛
-&emsp;🟢 https://gitlab.com/rastapank/lounge-squirrel  
-&emsp;🟠 https://github.com/elias-pap/kitapi  
-&emsp;🟢 https://github.com/UoC-Radio/flow-dashboard  
-&emsp;🟤 https://github.com/elias-pap/concurrent-data-structures
+&emsp;🟢 [rastapank/lounge-squirrel](https://gitlab.com/rastapank/lounge-squirrel)  
+&emsp;🟠 [elias-pap/kitapi](https://github.com/elias-pap/kitapi)  
+&emsp;🟢 [UoC-Radio/flow-dashboard](https://github.com/UoC-Radio/flow-dashboard)  
+&emsp;🟤 [elias-pap/concurrent-data-structures](https://github.com/elias-pap/concurrent-data-structures)
 
 <br/>
 🔵 TypeScript&emsp;🟡 JavaScript&emsp;🟢 Python&emsp;🟠 React Native&emsp;🟤 Java
