@@ -1,6 +1,9 @@
-👋 Hi ! I'm Elias. I like to experiment with new frameworks and technologies, contribute to open source projects, and develop my own applications.
+## Hi 👋
+I'm Elias (ee-LEE-as).  
+Fullstack at heart, with a Frontend affinity.  
+I like to experiment with new frameworks and technologies, contribute to open source projects, and develop my own applications.
 
-### Contributions 💥
+### Contributions 🌲
 &emsp;🔵 [vitejs/vite](https://github.com/vitejs/vite/pull/17333)  
 &emsp;🟡 [facebook/docusaurus](https://github.com/facebook/docusaurus/pull/7206)  
 &emsp;🟡 [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged/pull/1303)  
