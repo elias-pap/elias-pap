@@ -8,7 +8,7 @@ I like to:
 - **Contribute** to open source projects
 - **Develop** my own applications
 
-I'm passionate about DX and modern developer tooling.
+I'm passionate about DX and modern developer tools.
 
 ## Contributions 🌲
 &emsp;🔵 [vitejs/vite](https://github.com/vitejs/vite/pull/17333)  
