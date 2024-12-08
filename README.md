@@ -13,6 +13,7 @@ Passionate about DX and modern developer tools.
 ## Contributions 🌲
 &emsp;🔵 [vitejs/vite](https://github.com/vitejs/vite/pull/17333)  
 &emsp;🟡 [facebook/docusaurus](https://github.com/facebook/docusaurus/pull/7206)  
+&emsp;🔵 [microsoft/vscode](https://github.com/microsoft/vscode/pulls?q=is:pr+is:closed+author:elias-pap)  
 &emsp;🟡 [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged/pull/1303)  
 &emsp;🔵 [bitwarden/desktop](https://github.com/bitwarden/desktop/pulls?q=is:pr+is:closed+author:elias-pap)  
 &emsp;🟡 [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown/pulls?q=is:pr+is:closed+author:elias-pap)
