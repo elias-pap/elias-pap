@@ -21,7 +21,7 @@ Passionate about DX and modern developer tools.
 ## Projects I actively maintain 🥞
 &emsp;🟡 [elias-pap/youtube-share-clip](https://github.com/elias-pap/youtube-share-clip)
 
-## Past Projects 🌛
+## Past Projects 📚
 &emsp;🟢 [rastapank/lounge-squirrel](https://gitlab.com/rastapank/lounge-squirrel)  
 &emsp;🟠 [elias-pap/kitapi](https://github.com/elias-pap/kitapi)  
 &emsp;🟢 [UoC-Radio/flow-dashboard](https://github.com/UoC-Radio/flow-dashboard)  
