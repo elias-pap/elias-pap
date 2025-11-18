@@ -19,7 +19,8 @@ Passionate about DX and modern developer tools.
 &emsp;🟡 [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown/pulls?q=is:pr+is:closed+author:elias-pap)
 
 ## Projects I actively maintain 🥞
-&emsp;🟡 [elias-pap/youtube-share-clip](https://github.com/elias-pap/youtube-share-clip)
+&emsp;🟡 [elias-pap/youtube-share-clip](https://github.com/elias-pap/youtube-share-clip)  
+&emsp;🔵 [elias-pap/codeowners-comment-action](https://github.com/elias-pap/codeowners-comment-action)
 
 ## Past Projects 📚
 &emsp;🟢 [rastapank/lounge-squirrel](https://gitlab.com/rastapank/lounge-squirrel)  
